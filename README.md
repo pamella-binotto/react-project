@@ -75,6 +75,6 @@ http://localhost:5173
 - `npm run preview` – Visualiza a aplicação de produção localmente.
 
 
-## 👩‍💻 Autor(a)
+## 👩‍💻 Autora
 
 - **Pamella Binotto** — [@pamella-binotto](https://github.com/pamella-binotto)
